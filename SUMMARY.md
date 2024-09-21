@@ -16,13 +16,11 @@
   * [Cheesy Arena](tech/proxmox/cheesy.md)
 * [Audio - Visual](tech/audio-visual.md)
 * [Network Addressing](tech/network-addressing.md)
-* [FRC Nexus](tech/frc-nexus.md)
 
 ## Operation
 
 * [FMS Operator](operation/operator.md)
 * [Field Technician](operation/fta.md)
-* [Queueing](operation/queueing.md)
 
 ## Teardown
 
@@ -36,4 +34,7 @@
 ## Training
 
 * [Training (Team)](training/training-team.md)
-* [Training (Volunteer)](training/training-volunteer.md)
+
+***
+
+* [Volunteer](volunteer.md)

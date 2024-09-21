@@ -14,6 +14,7 @@
 * [Proxmox Server](tech/proxmox/README.md)
   * [Companion](tech/proxmox/companion.md)
   * [Cheesy Arena](tech/proxmox/cheesy.md)
+* [Audio - Visual](tech/audio-visual.md)
 * [Network Addressing](tech/network-addressing.md)
 
 ## Operation

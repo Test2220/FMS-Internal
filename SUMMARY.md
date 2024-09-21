@@ -36,7 +36,4 @@
 ## Training
 
 * [Training (Team)](training/training-team.md)
-
-***
-
-* [Volunteer](volunteer.md)
+* [Training (Volunteer)](training/training-volunteer.md)

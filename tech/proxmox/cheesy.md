@@ -6,3 +6,9 @@ icon: user-robot
 
 This page discusses technical aspects of Cheesy Arena, as well as configuration. For general usage, see [this page](../../operation/operator.md).
 
+
+
+
+
+Raspberry Pi - set up, reimage and script install
+

@@ -14,6 +14,7 @@
 * [Proxmox Server](tech/proxmox/README.md)
   * [Companion](tech/proxmox/companion.md)
   * [Cheesy Arena](tech/proxmox/cheesy.md)
+* [Network Addressing](tech/network-addressing.md)
 
 ## Operation
 
@@ -28,3 +29,11 @@
 ## Troubleshooting
 
 * [Page 5](troubleshooting/page-5.md)
+
+## Training
+
+* [Training (Team)](training/training-team.md)
+
+***
+
+* [Volunteer](volunteer.md)

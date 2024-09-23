@@ -10,24 +10,24 @@
 
 ## Technical <a href="#tech" id="tech"></a>
 
-* [External Services](tech/external-services/README.md)
-  * [FRC Nexus](tech/external-services/frc-nexus.md)
-  * [The Blue Alliance](tech/external-services/the-blue-alliance.md)
+* [External Services](tech/ext/README.md)
+  * [FRC Nexus](tech/ext/nexus.md)
+  * [The Blue Alliance](tech/ext/tba.md)
 * [Network](tech/network/README.md)
   * [Unifi Dream Machine SE](tech/network/udmse.md)
-  * [Network Addressing](tech/network/network-addressing.md)
-* [Proxmox Server](tech/proxmox/README.md)
-  * [Companion](tech/proxmox/companion.md)
-  * [Cheesy Arena](tech/proxmox/cheesy.md)
-* [Audio - Visual](tech/audio-visual/README.md)
-  * [Wireless Microphones](tech/audio-visual/wireless-microphones.md)
+  * [Network Addressing](tech/network/vlans.md)
+* [Proxmox Server](tech/server/README.md)
+  * [Companion](tech/server/companion.md)
+  * [Cheesy Arena](tech/server/cheesy.md)
+* [Audio - Visual](tech/av/README.md)
+  * [Wireless Microphones](tech/av/mic.md)
 * [Scorekeeping](tech/scorekeeping.md)
 
 ## Operation
 
 * [FMS Operator](operation/operator.md)
 * [Field Technician](operation/fta.md)
-* [Queueing](operation/queueing.md)
+* [Queueing](operation/queue.md)
 
 ## Teardown
 
@@ -40,5 +40,5 @@
 
 ## Training
 
-* [Training (Team)](training/training-team.md)
-* [Training (Volunteer)](training/training-volunteer.md)
+* [Training (Team)](training/team.md)
+* [Training (Volunteer)](training/volunteer.md)

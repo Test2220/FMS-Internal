@@ -10,13 +10,18 @@
 
 ## Technical <a href="#tech" id="tech"></a>
 
-* [Unifi Dream Machine SE](tech/udmse.md)
+* [External Services](tech/external-services/README.md)
+  * [FRC Nexus](tech/external-services/frc-nexus.md)
+  * [The Blue Alliance](tech/external-services/the-blue-alliance.md)
+* [Network](tech/network/README.md)
+  * [Unifi Dream Machine SE](tech/network/udmse.md)
+  * [Network Addressing](tech/network/network-addressing.md)
 * [Proxmox Server](tech/proxmox/README.md)
   * [Companion](tech/proxmox/companion.md)
   * [Cheesy Arena](tech/proxmox/cheesy.md)
-* [Audio - Visual](tech/audio-visual.md)
-* [Network Addressing](tech/network-addressing.md)
-* [FRC Nexus](tech/frc-nexus.md)
+* [Audio - Visual](tech/audio-visual/README.md)
+  * [Wireless Microphones](tech/audio-visual/wireless-microphones.md)
+* [Scorekeeping](tech/scorekeeping.md)
 
 ## Operation
 

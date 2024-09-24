@@ -29,7 +29,7 @@ Because we don't run any playoffs or alliance selection, playoff settings, allia
 * <mark style="background-color:yellow;">TBA Info</mark>
 * <mark style="background-color:green;">Authentication</mark>
 
-The automatic TBA download checkbox allows cheesy arena to pull a team list and team avatars off of The Blue Alliance. TBA info requires an event code authentication info, which must be obtained prior to the event. See [The Blue Alliance](../ext/tba.md) for more info.
+The automatic TBA download checkbox allows cheesy arena to pull a team list and team avatars off of The Blue Alliance. TBA info requires an event code authentication info, which must be obtained prior to the event. See [The Blue Alliance](../external-services/the-blue-alliance.md) for more info.
 
 <figure><img src="../../.gitbook/assets/CA Setup 3 (1).png" alt=""><figcaption></figcaption></figure>
 

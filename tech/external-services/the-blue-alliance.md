@@ -1,3 +1,7 @@
+---
+icon: light-emergency-on
+---
+
 # The Blue Alliance
 
 The Blue Alliance is a site that contains every team and event in FIRST. Most teams will regularly look at TBA for info about the event and attending teams, so it's crucial that all info is up to date and accurate.

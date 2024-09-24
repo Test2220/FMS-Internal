@@ -1,2 +1,6 @@
+---
+icon: flag-checkered
+---
+
 # Scorekeeping
 

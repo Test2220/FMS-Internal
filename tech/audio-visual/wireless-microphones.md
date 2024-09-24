@@ -1,3 +1,7 @@
+---
+icon: microphone-stand
+---
+
 # Wireless Microphones
 
 Wireless microphones are Samson Concert 99 units operating in the K-Band. Both of our units have handheld receivers.

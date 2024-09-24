@@ -1,3 +1,8 @@
+---
+icon: map-location
+coverY: 0
+---
+
 # Network Addressing
 
 **VLAN 10 - Runs all robot traffic during event - no internet access.**

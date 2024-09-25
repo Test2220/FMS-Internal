@@ -33,7 +33,7 @@ DHCP Range - 192.168.1.6 - 192.168.1.254
 
 Native VLAN 192.168.1.0/24
 
-Unify Router - 192.168.1.1
+Unifi Router - 192.168.1.1
 
 DHCP Range - 192.168.1.6 - 192.168.1.254
 

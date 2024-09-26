@@ -5,7 +5,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -14,3 +14,4 @@ layout:
 
 # Welcome
 
+This documentation is intended for use by Eagan Robotics and Eagan Robotics volunteers. If you are an attending team, please use this link to view the team documentation.

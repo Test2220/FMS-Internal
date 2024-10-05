@@ -4,6 +4,7 @@
 
 ## Setup
 
+* [Week Zero Layout](setup/week-zero-layout.md)
 * [20u Main Rack](setup/20u.md)
 * [4u Field Access Rack](setup/4u.md)
 * [VH-113 Radio Configuration](setup/vh113.md)
@@ -22,6 +23,7 @@
 * [Audio - Visual](tech/audio-visual/README.md)
   * [Wireless Microphones](tech/audio-visual/wireless-microphones.md)
   * [Mixer](tech/av/mixer.md)
+  * [Compositor](tech/av/compositor.md)
 * [Scorekeeping](tech/scorekeeping.md)
 
 ## Operation

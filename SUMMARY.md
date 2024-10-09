@@ -8,6 +8,8 @@
 * [20u Main Rack](setup/20u.md)
 * [4u Field Access Rack](setup/4u.md)
 * [VH-113 Radio Configuration](setup/vh113.md)
+* [Audio-Visual](setup/av/README.md)
+  * [Stream Decoders](setup/av/birddog.md)
 
 ## Technical <a href="#tech" id="tech"></a>
 

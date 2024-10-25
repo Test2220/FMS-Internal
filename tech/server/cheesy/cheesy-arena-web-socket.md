@@ -18,7 +18,7 @@ The way that Cheesy arena formats their packet is in a Type field and a Data fie
 
 ### Ping
 
-The Ping Packet confirms that the client is still receiving data from the web-socket server, no response is needed however to keep the connection alive&#x20;
+The Ping Packet confirms that the client is still receiving data from the web-socket server, no response is needed to keep the connection alive&#x20;
 
 ```json
 {"type":"ping","data":null}

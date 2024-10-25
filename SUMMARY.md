@@ -23,6 +23,7 @@
   * [Companion](tech/proxmox/companion.md)
   * [Cheesy Arena](tech/server/cheesy/README.md)
     * [Cheesy Arena Web-socket](tech/server/cheesy/cheesy-arena-web-socket.md)
+    * [Cheesy WS to REST Container](tech/server/cheesy/cheesy-ws-to-rest-container.md)
 * [Audio - Visual](tech/audio-visual/README.md)
   * [Wireless Microphones](tech/audio-visual/wireless-microphones.md)
   * [Mixer](tech/av/mixer.md)

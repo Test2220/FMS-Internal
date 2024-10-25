@@ -28,6 +28,7 @@
   * [Mixer](tech/av/mixer.md)
   * [Compositor](tech/av/compositor.md)
 * [Scorekeeping](tech/scorekeeping.md)
+* [Stack lights](tech/stack-lights.md)
 
 ## Operation
 

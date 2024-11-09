@@ -165,3 +165,44 @@ This updates the the score in 6 sections divided up by the Blue alliance and the
     }
 }
 ```
+
+## PLCIOChange
+
+The PLC IO Change is only called from the Field\_testing page and the following is an ordered list of inputs, outputs and coils simulating ModBus Code comments to the payload will mark what the line changes.
+
+```json
+{
+  "type": "plcIoChange",
+  "data": {
+    "Inputs": [
+      false, #field E-Stop
+      false, #Red 1 E-stop
+      false, #Red 2 E-stop
+      false, #Red 3 E-stop
+      false, #Blue 1 E-stop
+      false, #Blue 2 E-stop
+      false, #Blue 3 E-stop
+      false, #Red 1 Connected
+      false, #Red 2 Connected
+      false, #Red 3 Connected
+      false, #Blue 1 Connected
+      false, #Blue 2 Connected
+      false #Blue 2 Connected
+    ],
+    "Registers": [
+      0 #FieldIOConnection
+    ],
+    "Coils": [
+      false, #modbus heartbeat
+      true, #MatchReset
+      false, #StackLightGreen
+      false, #StackLightOrange
+      false, #StackLightred
+      false, #StackLightblue
+      true,  #StackLightbuzzer
+      false #fieldResetLight
+    ]
+  }
+}
+```
+

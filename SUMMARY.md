@@ -6,8 +6,9 @@
 
 * [Week Zero Layout](setup/week-zero-layout.md)
 * [20u Main Rack](setup/20u.md)
-* [4u Field Access Rack](setup/4u.md)
-* [4u Field AV Rack](setup/4u-field-av-rack.md)
+* [4u Field Access Rack (NET)](setup/4u.md)
+* [4u Field AV Rack (A/V)](setup/4u-field-av-rack-a-v.md)
+* [4u Pit Rack (PITS)](setup/4u-pit-rack-pits.md)
 * [VH-113 Radio Configuration](setup/vh113.md)
 * [Audio-Visual](setup/av/README.md)
   * [Stream Decoders](setup/av/birddog.md)

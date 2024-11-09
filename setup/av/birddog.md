@@ -13,4 +13,4 @@ icon: play
 
     <figure><img src="../../.gitbook/assets/birddog_play.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/poe-usbc copy.jpg" alt=""><figcaption></figcaption></figure>

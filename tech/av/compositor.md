@@ -24,6 +24,8 @@ rtspsrc location=rtsp://[RTSPUSERNAME]:[RTSPPassword]@[IPofCamera]:554/cam/realm
 
 {% embed url="https://obsproject.com/forum/resources/obs-gstreamer.696/" %}
 
+Note: the directory for the Gstreamer Runtime needs to be added to the system Path Variable to properly start the plugin
+
 #### Distro-AV&#x20;
 
 This is the plugin for OBS for distribution of NDI to the Pits and other areas. This also requires the NDI 5.0 Runtime which is included in the NDI Tools in the link below.
